@@ -1,5 +1,5 @@
 [package]
-name = "blurhash"
+name = "blurhash-ng"
 description = "A pure Rust implementation of blurhash"
 documentation = "https://docs.rs/blurhash"
 repository = "https://github.com/Raincal/blurhash-rs"
